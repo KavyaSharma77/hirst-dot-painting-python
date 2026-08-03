@@ -27,7 +27,7 @@ python main.py
 <h2>Output</h2>
 
 <p align="center">
-  <img src="sample_output.png" width="500">
+  <img src="Sample_output.png" width="500">
 </p>
 
 
