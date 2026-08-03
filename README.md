@@ -24,8 +24,6 @@ python main.py
 
 ## Output
 
-<h2>Output</h2>
-
 <p align="center">
   <img src="Sample_output.png" width="500">
 </p>
