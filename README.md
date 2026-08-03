@@ -24,7 +24,11 @@ python main.py
 
 ## Output
 
-<img width="957" height="842" alt="image" src="https://github.com/user-attachments/assets/b430f92d-dbb5-43e9-884e-965de16550dc" />
+<h2>Output</h2>
+
+<p align="center">
+  <img src="sample_output.png" width="500">
+</p>
 
 
 ## Project Structure
